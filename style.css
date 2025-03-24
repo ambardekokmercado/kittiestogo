@@ -1,4 +1,18 @@
 
+
+body {
+    background-image: url(images/joe-woods-4Zaq5xY5M_c-unsplash.jpg);
+  }
+
+
+  /* Gradient Background Disabled
+  body {
+    background-image:  linear-gradient(red, yellow);
+  }
+  */
+ 
+
+
 h3 {font-family: Arial, Helvetica, sans-serif;
     color: #38c8f4;
     font-style: bold;
