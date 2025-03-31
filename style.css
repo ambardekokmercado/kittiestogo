@@ -22,6 +22,22 @@
 /* End Media Queeries for Images
   */
 
+  /* Header, Footer Media Queeries for 100% Width
+  */
+ 
+  
+  @media (min-width: 100%) and (max-width: 100%) {
+      #header {
+          width: 100%
+          height: auto;
+      }
+
+      @media (min-width: 100%) and (max-width: 100%) {
+        #footer {
+            width: 100%
+            height: auto;
+        }
+
 
     /* Start Media Queeries for Nav Bar
   */
