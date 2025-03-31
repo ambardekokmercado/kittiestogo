@@ -23,19 +23,15 @@
   */
 
 
-    /* Start Media Queeries for Left Side Bar
+    /* Start Media Queeries for Nav Bar
   */
-  #leftsidebar {
+  #navigation {
     float: none;
     width: auto;
   }
   
-  #menulist {
-    margin: 0;
-    padding: 0;
-  }
   
-  .menuitem {
+  #menuitem {
     background: #CDF0F6;
     border: 1px solid #d4d4d4;
     border-radius: 4px;
@@ -45,8 +41,7 @@
   }
   
   @media screen and (min-width: 480px) {
-    #leftsidebar {width: 200px; float: left;}
-    #main {margin-left: 216px;}
+    #navigation {width: 200px; float: left;}
   }
 
   /* End Media Queeries for Left Side Bar
